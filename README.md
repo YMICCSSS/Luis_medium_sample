@@ -1,2 +1,2 @@
 # medium
-for medium
+For medium
